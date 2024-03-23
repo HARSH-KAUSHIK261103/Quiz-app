@@ -19,7 +19,9 @@ Welcome to the React Quiz App repository! This app is a fun and interactive way 
 ## Installation
 To get started with this app, clone the repo and install the dependencies:
 
-git clone https://github.com/your-username/react-quiz-app.git cd react-quiz-app npm install
+git clone https://github.com/HARSH-KAUSHIK261103/Quiz-app.git  
+cd react-quiz-app 
+npm install
 
 
 ## Usage
